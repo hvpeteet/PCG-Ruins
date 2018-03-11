@@ -322,22 +322,22 @@ Prefab:
     - target: {fileID: 114166342725620596, guid: 9064e9d82c5d44947bb5bb6a5ee133fe,
         type: 2}
       propertyPath: num_rounds
-      value: 10000
+      value: 1000
       objectReference: {fileID: 0}
     - target: {fileID: 114166342725620596, guid: 9064e9d82c5d44947bb5bb6a5ee133fe,
         type: 2}
       propertyPath: building_dimension_x
-      value: 10
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 114166342725620596, guid: 9064e9d82c5d44947bb5bb6a5ee133fe,
         type: 2}
       propertyPath: building_dimension_y
-      value: 10
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 114166342725620596, guid: 9064e9d82c5d44947bb5bb6a5ee133fe,
         type: 2}
       propertyPath: building_dimension_z
-      value: 10
+      value: 6
       objectReference: {fileID: 0}
     - target: {fileID: 114166342725620596, guid: 9064e9d82c5d44947bb5bb6a5ee133fe,
         type: 2}
@@ -440,7 +440,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 2ad452f63c98dd94a8c9542a1891a4d0, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  cameraSensitivity: 180
+  cameraSensitivity: 90
   climbSpeed: 4
   normalMoveSpeed: 10
   slowMoveFactor: 0.25
